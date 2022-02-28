@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proctor and parator their mourning: or, The lamentation of the Doctors Commons for their downfall. Being a true dialogue, relating the fearfull abuses and exorbitancies of those spirituall courts, under the names of Sponge the proctor, and Hunter the parator.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91057</idno>
+            <idno type="STC">Wing P3642</idno>
+            <idno type="STC">Thomason E156_13</idno>
+            <idno type="STC">ESTC R19853</idno>
+            <idno type="EEBO-CITATION">99860754</idno>
+            <idno type="PROQUEST">99860754</idno>
+            <idno type="VID">112879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112879)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proctor and parator their mourning: or, The lamentation of the Doctors Commons for their downfall. Being a true dialogue, relating the fearfull abuses and exorbitancies of those spirituall courts, under the names of Sponge the proctor, and Hunter the parator.</title>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on lawyers.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawyers --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112879:1" rendition="simple:additions"/>
+            <p>THE PROCTOR AND PARATOR their Mourning: <hi>OR,</hi> The lamentation of the Doctors Commons for their Downfall. <hi>Being a true Dialogue,</hi> Relating the fearfull abuſes and exorbitancies of thoſe ſpirituall Courts, under the names of <hi>Sponge</hi> the Proctor, and <hi>Hunter</hi> the Parator.</p>
+            <figure/>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:112879:2"/>
+            <head>
+               <hi>THE PARATOR</hi> and the Proctor.</head>
+            <sp>
+               <speaker>Hunter the Parator.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Aſter <hi>Sponge,</hi> how goes the world with you now-a-dayes? What? have you good ſtore of gaine come in? Doe Clients flock about you, as Bees about a Tarre-pot? Its now full Tearme, you may line your pockets with Caſh; make them pay deerly that come for your helpe: for I thinke it is the onely way to make men live in quiet<g ref="char:EOLhyphen"/>neſſe, to begger them with long ſutes and large fees.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge the Proctor.</speaker>
+               <p>Well, well mad <hi>Hunter,</hi> we have had brave times, I confeſſe, and I have not ſpared to cut large thongs of other mens hides: we had al<g ref="char:EOLhyphen"/>moſt gotten the whole power into our owne hands; but now I proteſt, the Divell I thinke
+<pb facs="tcp:112879:3"/>ow'd us a miſchief: for theſe times are worſe for us then Dog-dayes be for ſick folkes; but how rides the rack with you? for you keepe compaſſing the City, as the Divell does the earth, to torment poore men.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>Compaſſing, ſay you? I compaſſe ground enough, I confeſſe; and not long ſince have gotten good booty from tranſgreſſors againſt holy dayes, of Chandlers, Ale-houſes, Ta<g ref="char:EOLhyphen"/>vernes, Tobacco-ſhops, Butchers, Comfit<g ref="char:EOLhyphen"/>makers, Gunſmiths, Bakers, Brokers, Cookes, Weavers, &amp; divers other malefactors againſt our terrible Canons and Juriſdiction: for had I but given them a ſevere looke, I could by that meanes have made them draw their pur<g ref="char:EOLhyphen"/>ſes, or elſe they knew whither they were to be fetcht up with a <hi>Coram Nomine.</hi> I have put 80 of theſe fearfull Birds into one net, &amp; I alwaies held correſpondency with the Clarks of Pariſhes, ſo that I could ſtand by a pillar in the Church, and heare them all excommu<g ref="char:EOLhyphen"/>nicated at once, by the poore Curate, who durſt not diſobey for fear of the mighty com<g ref="char:EOLhyphen"/>mand of the Judges of the Courts, whoſe aw<g ref="char:EOLhyphen"/>full injunctions were as formidable to ſuch 10. li. a year fellowes, as Canon ſhot to young Sea-men. Ah Mr. <hi>Sponge,</hi> you know what prizes I have fetcht into the harbours. I tell
+<pb facs="tcp:112879:3"/>you the name of the <hi>Doctors Commons</hi> was as terrible to theſe, as Argier is to Gally-ſlaves.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>For my part I alwayes covenanted with the Parator my ſetter, and paid him, but I ſate at home like one of the Spaniſh Inquiſitors, and fram'd Interrogatories againſt them that hee brought in, all my care was to make ſure work with them, I had a way to chain them as faſt in our Purgatories, as theeves are in Newgate, or as blind Bears are to a ſtake, while we went about, and whipt them ſoundly.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>I'le aſſure you, if the tide had kept on, I had intended to have done ſome great matter or o<g ref="char:EOLhyphen"/>ther: for I had ſeverall wayes to get wealth by, as by Popiſh Recuſants, by Seminary Prieſts, for concealing their haunts, and divers of their holy Nunnes, and young Novices which harbour in ſeverall places in and about the town, whoſe ſtarting holes I knew as well as themſelves. I got no ſmall trading by the Browniſts, Anabaptiſts, and Familiſts, who love a Barne better then a Church, and would come off roundly and ſecretly, with good fee<g ref="char:EOLhyphen"/>lings, whoſe diſciples for the moſt part are females, and yet often decline to the common gender: but I had divers other courſes to fetch in coine; how dreadfull hath my citation been
+<pb facs="tcp:112879:4"/>to poor Curats, Lecturers, and Schoolmaſters Uſhers, that have been willing to officiate their places without licences; and though they had generall licences, yet I knew how to fetch them into captivity for ſpeciall licences, which was gainfull to you Mr. <hi>Sponge,</hi> though their places were ſcarce worth the charges for taking out their licences.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>I' faith <hi>Hunter</hi> thou ſayſt true, I have had many a good fee by thy procurement, 'twas ſweet fiſhing in troubled waters, 'twas beſt for us when men ſin'd moſt: what bribes have I had for purgations beyond thoſe of Phyſiti<g ref="char:EOLhyphen"/>ans or Mountebanks? Countrey wenches would ſell their peticoats rather to pay us, then to endure a white ſheet; how have wee thriven by their wantonneſſe? we would take what we pleaſ'd, 'twas but complying with the Surrogate, or bribing the Judges Clarke, and at laſt ſumme up all with an <hi>Iujungimus coram Iudice competente.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>O the thought of my <hi>quondam</hi> imploy<g ref="char:EOLhyphen"/>ments, with the conſtant in comes that I had by my general uſurpation! for I pick'd ſome<g ref="char:EOLhyphen"/>thing out of all profeſſions by right or wrong, makes my heart doubt that our beſt times are gone: now what a fool was I Mr. <hi>Sponge,</hi> that
+<pb facs="tcp:112879:4"/>would not make nay when the Sun ſhined? I proteſt what I got unjuſtly, I ſpent as laviſhly. I am afraid that beggery, if not diſgrace, will accompany my old age: I knew how to fetch coin from Lecturers, who as I made them be<g ref="char:EOLhyphen"/>leeve, would be ſilenced becauſe they ſuppli<g ref="char:EOLhyphen"/>ed their places too diligently; nay, I have got well too by ſome of their auditors for leaving their owne pariſh Churches and Miniſters, and gadding after ſtrangers. I loſt not all nei<g ref="char:EOLhyphen"/>ther by giving Informations and intelligence to the Biſhops Purſevants, to finde out the co<g ref="char:EOLhyphen"/>vies of many that were hidden, and heard Sermons in private, for feate of the cenſure of the high Commiſſion, and of going to priſon. An old Hare had not more muſes to deceive the hounds, then I had to receive caſh by de<g ref="char:EOLhyphen"/>ceiving the people.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>O brave, and experienc'd controuler, I did not come much ſhort of you: for I tied my followers in caſes of the Courts, as faſt as birds be in lime twigs; when a cauſe has been ready for ſentence and ſmall determination, I knew what to ſay and doe to the Judge. It was but by getting the caſe put off, as I would pretend for the good of my Clyent. I knew how to get an order, in <hi>pro<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> but while I pretended his good, I intended my own pro<g ref="char:EOLhyphen"/>fit.
+<pb facs="tcp:112879:5"/>We had wayes to perſwade men to make appeals from the Archdeacons Courts to the Chancellors, from the Chancellors to the Biſhops, from that to the Archbiſhops, from that to the Delegates, and high Commiſſion, &amp; here we cooped them in as ſurely as ſo ma<g ref="char:EOLhyphen"/>ny Foxes doe ſo many Geeſe: for theſe two Courts are our rendevouz, we accou<g ref="char:cmbAbbrStroke">̄</g>ted them our Bear-gardens for to worry mens purſes; I am perſwaded we tormented them almoſt as bad as the Divell did <hi>Iob.</hi> Men that appealed, did as fiſh doe, who leap out of the frying pan into the fire.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>I know that you knew all the toiles to catch men: I proteſt, I hold the Proctors to bee worſe then Sergeants, and the Doctors Com<g ref="char:EOLhyphen"/>mo<g ref="char:cmbAbbrStroke">̄</g>s as dangerous a den as either the Poultry or Woodſtreet Counter: for here men are tormented becauſe they want money, but in the Commons they are puniſhed moſt for having too much money: the Counters take birds in, that almoſt want feathers, this place receives ſuch as are over-laden with feathers: the Counters afford ſome reliefe to men that are undone, but the Co<g ref="char:cmbAbbrStroke">̄</g>mons take away reliefe from men that they may be undone. Ah, Mr. <hi>Sponge,</hi> you know that Horſleeches doe not more eagerly ſucke bloud from mens bo<g ref="char:EOLhyphen"/>dies,
+<pb facs="tcp:112879:5"/>then you do money from their purſes. Such as came up with cram'd bagges full of ſilver in one tearme, you knew how to metamorphoſe ſil<g ref="char:EOLhyphen"/>ver into a little parchment, and a red ſeale<g ref="char:punc">▪</g> it was well if they could put up <hi>Iohannes Lamb, le<g ref="char:EOLhyphen"/>gum Doctor &amp; Miles,</hi> into an office box, it made not much for Jacobuſſes in their purſes, ſo that they could but ſhew his <hi>Injungimus &amp; mandamus</hi> when they returned home.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>In troth <hi>(Hunter)</hi> though men might have lear<g ref="char:EOLhyphen"/>ned wit by others ſufferings, yet people would flock to us as ſo many ſimple Ducks to a Decoy; we had almoſt taught all England to bee Courti<g ref="char:EOLhyphen"/>ers, no day in the week but we had one returne or other, wee feared no vacation as long as women could talke: for there would bee matter of defa<g ref="char:EOLhyphen"/>mation to worke upon by their ſcolding; wee got great imployment by womens tongues, too much talking and lying (I meane) on their backes. Bow Church in Cheapſide was the place of our im<g ref="char:EOLhyphen"/>batrailing for the Arches, where we got well by balling out upon <hi>Domine Iudex, Domine Index.</hi> Surely that Chancell had need to bee new conſe<g ref="char:EOLhyphen"/>crated: for it was ſoundly polluted by ſcolding, railing, lying, diſſembling, foyſting, cogging, jee<g ref="char:EOLhyphen"/>ring, falſe latine, and corrupt judgement. Smith<g ref="char:EOLhyphen"/>field could ſcarce affoord ſo many cheating Ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe courſers on a friday, as we could Councel<g ref="char:EOLhyphen"/>lors. Doctors, Proctors, Advocates, Clarkes, pub<g ref="char:EOLhyphen"/>lick Notaries, Regiſters, Purſevants, and ſuch Bea<g ref="char:EOLhyphen"/>gles
+<pb facs="tcp:112879:6"/>as you are, <hi>Hunter,</hi> whom we accounted as ſo may Panders to our ſpiritual courts, or like ſo ma<g ref="char:EOLhyphen"/>ny Egyptian flies that would be buſie to ſpoyle a good cauſe by falſe oathes and a quart of Sack to enrich their poluted noſes with Carbuncles and Rubies. Is not this true?</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>True ſay you: well Sir, we had our private gains that we meerly guld you of<g ref="char:punc">▪</g> for how many fruit<g ref="char:EOLhyphen"/>full Laſſes have we made uſe of, &amp; have got good moneyes for concealing them from your Courts? wee did as much knavery under deckes, as you could practiſe above boord<g ref="char:punc">▪</g> all Griſtes came not to your Mills; if the wenches, were either willing, or rich, or handſome, we gave them liberty to uſe their own by our concealment, wee had wayes e<g ref="char:EOLhyphen"/>nough to keep them out of your purlues, but if they were old, deformed, and halfe rotten; and poor, then we would put them into your places of triall; ſo that alas! we gave you the offals, but kept the choyce bits for our owne palats, thinking that old Bawds and crafty Proctors were beſt baw<g ref="char:EOLhyphen"/>ling together.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>Alas! ſimple gull, do you ſuppoſe that our reve<g ref="char:EOLhyphen"/>nues came in but at one doore? we had the chiefe enquartering in that large Cathedrall, where our Radamanths ſate in their Pontificalibus, as at Conſiſtories, the Courts of Audience, the Court of Faculties, the Prerogative, the high Commiſſi<g ref="char:EOLhyphen"/>on theſe Court dayes, together with the Court of
+<pb facs="tcp:112879:6"/>Admiralty, were our Halcyon dayes: theſe were our full Marts, Bees were never more buſie when they ſwarme, then wee Hornets and Caterpillers were at theſe times: the cackling and number of Jack-dawes upon the ſteeple, were not equall to us in the Church: you ſhould have heard ſuch a humming and buzzing in our Courts, that the noyſe at Babels confuſion, or at the routing an Army, did ſcarce exceed it. Oh how terribly have I ſweat in yawling to the Judge, not ſo much deſi<g ref="char:EOLhyphen"/>ring to be heard, as to keep up the noyſe. No ken<g ref="char:EOLhyphen"/>nell of hounds hath been heard with deeper notes or lowder throats: for we had good ſetters, and thoſe that would pay any thing to heare &amp; ſee us buſie to no purpoſe, though wee might as well have been abſent as our Clients themſelves, and lived more quietly and honeſtly.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>Nay, ſtand not boaſting too much of your own happineſſe you dealt by the Judges as wee did by you, you lived all the year upon their corruptions, and we thrive by yours: for as the Proctor is the Judges hony pot, ſo the Parator is the Proctors; as the Judge will ſtarve a cauſe without a feeling, ſo a Proctor will wart a cauſe without a Parator. Hereupon we do uſually receive ſome bribe for a new-years gift, and the Judge he expects a good piece of plate for his favour ſhewed in ending cauſes according to the Proctors deſire: ſo that in plain tearmes the Proctors muſt fee the Parator to bring in game, and hee muſt fee the Judge
+<pb facs="tcp:112879:7"/>to keep them faſt when they are in. But now Mr. <hi>Sponge,</hi> let's leave off this, and talke of ſome thing elſe: I pray you what newes heare you of late?</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>Piſh, what doeſt aske mee of newes? I had thought thou hadſt brought in ſome Wil to prove, or to procure ſome licence for ſome peccant Wench or other that hath been a Merchant Ad<g ref="char:EOLhyphen"/>venturer before ſhe hath had all her tackling fit<g ref="char:EOLhyphen"/>ted; or elſe that thou hadſt brought me notice of ſome zealous honeſt Miniſter that preaches twice a day, and above an houre at a time: ſome of thoſe that will not Chriſten a childe with the ſigne of the croſſe, or not wear a Surplice, a Cap, &amp; Hood; or one that would not read the booke of lawfull recreations, or ſuch a man as will prove the Sun<g ref="char:EOLhyphen"/>day to be a Sabbath, or will not read ſecond Ser<g ref="char:EOLhyphen"/>vice at the Altar, or not bow at the name of Je<g ref="char:EOLhyphen"/>ſus, or elſe who doth ſpeak againſt our Courts, or preaches againſt double beneficed men, or Or<g ref="char:EOLhyphen"/>gans, or Copes, ſinging men, or the like: This, this had been ſomething, I would have trounc'd him in our Courts, I would have fram'd as many Ar<g ref="char:EOLhyphen"/>ticles againſt ſuch a man, as that Accuſer the Di<g ref="char:EOLhyphen"/>vill could.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>Prithee beare a little, Mr. <hi>Sponge:</hi> thou knoweſt what ſervice I have done thee this way, but now I dare not ſo much as queſtion any ſuch, for ſo I might quickly have enough about me. Alas know Mr. <hi>Sponge,</hi> you and I muſt be very cautelous how
+<pb facs="tcp:112879:7"/>wee move thoſe things: doe you know that thoſe ragges and reliques of Romes ſuperſtition are de<g ref="char:EOLhyphen"/>rided? how they are laughed at by Apprentiſes; in faith, let them that will weare them, maintaine them: for I ſee how the whole body of our rich Clergy are now put to it, they cannot uphold them; and I feare the Doctors of the Commons will be fetcht before their betters in Parliament, touching ſuch needleſſe points, if not ſoundly fin'd to the King for ſo unjuſtly defending them. I doe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hink it will goe as hardly with our Judges for theſe things, as it doth with the Judges for maintaining the lawfulneſſe of Ship-money. Ah! indeed when things were not ſo ſtrictly looked into by wiſe Senators, then wee might; but now, ſince things are better ordered by the honourable Parliament aſſembled, it is folly to look after thoſe matters: though I confeſſe it is one of the grea<g ref="char:EOLhyphen"/>teſt batteries that has been made againſt our pro<g ref="char:EOLhyphen"/>feſſion; but we muſt beare. I am afraid of hard times, I thinke it is beſt for mee turne Cobler or Chimney ſweper, to get ſomething quietly, then to run ſuch hazards.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>Faith <hi>Hunter,</hi> me thinkes ever ſince the Parlia<g ref="char:EOLhyphen"/>ment hath ſitten, I have not ſeen that courage and authority in our Judges, as before; there is no ſuch flocking to Lambeth as there had wont to be, now the ſupporter of the Doctors Commons is gone to the Tower, all his favourites are mainly decay<g ref="char:EOLhyphen"/>ed. It is but a Roman faſhion, if the Doctors of
+<pb facs="tcp:112879:8"/>the Commons double benefic'd men and Pro<g ref="char:EOLhyphen"/>ctors be ſoundly puniſhed and fin'd. <hi>Trajan</hi> the Emperour when hee knew the people ſquiezed and oppreſſed them, then would he ſuffer the op<g ref="char:EOLhyphen"/>preſſors of them to be retalliated. Now our Do<g ref="char:EOLhyphen"/>ctors and the reſt have been large this way: they may juſtly expect a requitall. I doubt me the pay<g ref="char:EOLhyphen"/>ment of ſuch fines will be a caſe cleane contrary to their conſciences.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>I do not much feare: for I have nothing to loſe, I am ſure of it I can plead, that I have done a great deale of ſervice to my countrey, in cauſing old for<g ref="char:EOLhyphen"/>nicators and adulterers, who uſually fell into dirty ditches, to mend and repaire the high ways, and to make good cawſies for prevention for time to come; witneſſe the high way betwixt Wells and Glaſtenbury, and betwixt Liechfield and Coven<g ref="char:EOLhyphen"/>try, and many other places which are now made ſerviceable by my informing againſt other mens ſinnes. What ſay you to this diligence of mine?</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>Alas! your labour is nothing to what I have done in the Prerogative Court, by protracting a cauſe concerning a Will: firſt, I have made them prove a forged will <hi>communi forma,</hi> and then pro<g ref="char:EOLhyphen"/>tracting the cauſe, after 12 yeares ſpace I have made them prove it <hi>per teſtes,</hi> &amp; then to diſcharge the forged will ſo prov'd, thus, with <hi>Annihilamus, Caſſamus, &amp; irritamus, &amp; pro nihilo habemus Roge<g ref="char:EOLhyphen"/>ri, &amp;c.</hi> And by this courſe I have made worke
+<pb facs="tcp:112879:8"/>for Weſtminſter Hall Practitioners for the ſpace of ſeventy yeares after: a captivity long enough to be endured by any (as I ſuppoſe) in thoſe Law Toyles, which are as troubleſome to poore Cly<g ref="char:EOLhyphen"/>ents, as Iron Fetters be to captived priſoners.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>Well, well, Maſter <hi>Sponge,</hi> let us not boaſt too loudly of theſe exploits, there are ſo many overſeers now, that it is beſt if wee can ſleepe in a whole skinne; I ſhall deſire thus much, that you would pray that I may not be caught in my owne ſnares, and I will doe ſo much for you that if poſſibly it may, that you may eſcape a generall ſqueezing, but I feare that both of us ſhall ſmart for our faults already committed.</p>
+            </sp>
+            <sp>
+               <speaker>Sponge.</speaker>
+               <p>We muſt endure it, for there is no hopes of eſcape, and a man had as good almoſt bee hang'd at home, as drown'd or hang'd abroad: well, I will give my ſelfe a generall ſuſpenſion from pra<g ref="char:EOLhyphen"/>ctice as yet; and if I eſcape this ſtorme, I ſhall thinke my ſelfe happy for ever; and ſo farewell <hi>Hunter,</hi> for you ſee how our Doctors Commons is more like a deſolate wilderneſſe for wilde beaſts, then men; no Clyents appeare to us in our Circles, and this certainety of the Triennial Par<g ref="char:EOLhyphen"/>liament cuts our combes for ever doing any great exployts for aftertimes.</p>
+            </sp>
+            <sp>
+               <speaker>Hunter.</speaker>
+               <p>I am ſorry to ſee theſe dayes, but yet I will
+<pb facs="tcp:112879:9"/>not caſt away hope, for if all failes, He turne Journey man to <hi>Gregory</hi> the hang man, for it is reported hee has great trading; any thing rather then ſtand out, better live by a Rope then by the Pope.</p>
+            </sp>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
